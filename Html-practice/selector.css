@@ -1,0 +1,18 @@
+div {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+picture {
+  text-align: center;
+  border-radius: 5px;
+}
+
+description {
+  text-align: center;
+  font-style: italic;
+}
